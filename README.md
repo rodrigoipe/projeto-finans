@@ -1,2 +1,2 @@
-# projeto finans 
- Pagina curso udemy
+# Projeto finans 
+ Pagina curso udemy. Curso HTML, CSS e Bootstrap.
